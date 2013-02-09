@@ -1,0 +1,2 @@
+This is a version of the minesweeper game developed using HTML5 and jQuery. The game allows to select among different levels of difficulty and includes a timer control.
+The game can be tested at: http://www.jcruells.name/?q=content/creaci%C3%B3-dun-joc-amb-javascript-i-jquery
